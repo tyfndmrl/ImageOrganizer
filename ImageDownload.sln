@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDownload", "src\ImageDownload\ImageDownload.csproj", "{4FC5A49F-97B3-429D-910A-5E74E461555F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC5A49F-97B3-429D-910A-5E74E461555F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC5A49F-97B3-429D-910A-5E74E461555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC5A49F-97B3-429D-910A-5E74E461555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC5A49F-97B3-429D-910A-5E74E461555F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A10405-7D1E-43E9-8CAB-0FB7A9DE5560}
+	EndGlobalSection
+EndGlobal
